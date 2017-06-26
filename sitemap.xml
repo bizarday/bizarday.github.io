@@ -1,59 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bizarday.info/</loc>
-    <lastmod>2017-01-06T09:40:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bizarday.info/01/94017/</loc>
-    <lastmod>2017-01-06T09:40:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bizarday.info/12/51619/</loc>
-    <lastmod>2016-12-29T15:16:19+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bizarday.info/09/13303/</loc>
-    <lastmod>2016-09-18T11:33:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bizarday.info/09/03505/</loc>
-    <lastmod>2012-09-18T20:35:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bizarday.info/06/23159/</loc>
-    <lastmod>2012-06-15T22:31:59+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bizarday.info/05/35039/</loc>
-    <lastmod>2012-05-22T23:50:39+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bizarday.info/05/52134/</loc>
-    <lastmod>2012-05-08T15:21:34+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bizarday.info/03/14317/</loc>
-    <lastmod>2012-03-21T21:43:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bizarday.info/02/15114/</loc>
-    <lastmod>2012-02-16T21:51:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bizarday.info/02/about/</loc>
+    <loc>https://bizarday.github.io/fishes/1996/about/</loc>
     <lastmod>1996-02-02T00:57:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bizarday.github.io/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bizarday.github.io/</loc>
+    <lastmod>1996-02-02T00:57:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bizarday.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bizarday.github.io/post/</loc>
+    <lastmod>1996-02-02T00:57:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bizarday.github.io/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
